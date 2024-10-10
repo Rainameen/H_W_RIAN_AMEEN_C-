@@ -1,0 +1,28 @@
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+C:\Users\ENG\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form5.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form6.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W5\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb

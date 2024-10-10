@@ -1,0 +1,14 @@
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\bin\Debug\H_W_L_6_ريان_امين.exe.config
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\bin\Debug\H_W_L_6_ريان_امين.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\bin\Debug\H_W_L_6_ريان_امين.pdb
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.csprojAssemblyReference.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form2.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form3.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form4.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form6.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.Properties.Resources.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.csproj.GenerateResource.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.csproj.CoreCompileInputs.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_6_ريان_امين\WindowsFormsApp13\obj\Debug\H_W_L_6_ريان_امين.pdb

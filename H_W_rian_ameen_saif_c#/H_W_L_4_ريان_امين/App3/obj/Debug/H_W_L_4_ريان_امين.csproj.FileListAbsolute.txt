@@ -1,0 +1,10 @@
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\bin\Debug\H_W_L_4_ريان_امين.exe.config
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\bin\Debug\H_W_L_4_ريان_امين.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\bin\Debug\H_W_L_4_ريان_امين.pdb
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.csprojAssemblyReference.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.Properties.Resources.resources
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.csproj.GenerateResource.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.csproj.CoreCompileInputs.cache
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.exe
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4_ريان_امين.pdb
+C:\Users\ENG\Desktop\h_w rian c#\H_W_L_4_ريان_امين\App3\obj\Debug\H_W_L_4.Form1.resources
